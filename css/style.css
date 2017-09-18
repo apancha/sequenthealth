@@ -1,0 +1,488 @@
+.logo {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background: #1f4163;
+    box-shadow: 0px 0px 5px black;
+}
+
+.pos-f-t {
+    width: 300px;
+}
+
+.navbar {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.bg {
+    background-color: #1f4163;
+}
+
+.btn {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.fa-search {
+    color: gray;
+    font-size: 12px;
+    padding-right: 5px;
+}
+
+.bg-logo {
+    background: #1f4163;
+}
+
+.nav-bg {
+    background: #1f4163;
+    padding: 0;
+    box-shadow: 0px 2px 5px black;
+    height: 100vh;
+}
+
+.container-fluid {
+    padding-left: 0px;
+}
+
+.nav-tem-bg {
+    background: #51768f;
+}
+
+.caption {
+    color: white;
+    text-align: center;
+}
+
+.caption-sm {
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    padding-top: 20px;
+}
+
+.img-doc {
+    padding: 20px 0;
+    display: block;
+    margin: auto
+}
+
+.nav-item .nav-link.active {
+    background: #4687a3;
+}
+
+.row-bg {
+    background: #51768f;
+    box-shadow: 0px 0px 5px black;
+    width: 100%;
+}
+
+.banner-padd {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+body {
+    background-color: #f5f5f5;
+}
+
+.card {
+    border: 0px;
+}
+
+.card-1,
+.card-2 {
+    height: 100%;
+    padding: 20px;
+}
+
+.card-text {
+    font-size: 12px;
+    color: gray;
+}
+
+.comm-floater {
+    float: right;
+    padding-right: 14%;
+}
+
+.gutter {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.iconbar-1 {
+    float: right;
+}
+
+.iconbar-2 {
+    float: right;
+    padding-right: 40%;
+}
+
+.icobar {
+    margin-top: 1.3em;
+    font-size: 20px;
+}
+
+.card-title {
+    color: #80033d;
+}
+
+.bottom-border {
+    padding-bottom: 35px;
+}
+
+.linktext {
+    margin-left: 2em;
+}
+
+.nav-elem {
+    color: white;
+    font-size: 11px;
+    padding-left: 55px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-top: 1px solid #2c4d6e;
+    border-bottom: 1px solid #2c4d6e;
+}
+
+.icon-space {
+    padding-right: 20px;
+    font-size: 16px;
+    color: #4687a3;
+}
+
+.val-pad {
+    padding-top: 0;
+}
+
+.nav-link.active .icon-space {
+    color: white;
+}
+
+.top-icon-space {
+    padding-right: 20px;
+    font-size: 20px;
+    color: white;
+}
+
+a:hover {
+    color: gray;
+}
+
+.block-style {
+    border-top: 5px solid #f5f5f5;
+    border-bottom: 2em solid #f5f5f5;
+    padding: 10px 0 10px 5px;
+}
+
+.btn-size {
+    width: 85%;
+}
+
+.val1-pad {
+    margin-top: 2em;
+}
+
+.form-side {
+    padding-right: 0;
+}
+
+.form-side2 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.round-ovrd {
+    border-radius: 0px;
+}
+
+.form {}
+
+.banner-img {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.calendar-bar {
+    margin-bottom: 0;
+    height: 30px;
+}
+
+.top-cards {
+    margin-top: .2em;
+}
+
+.bottom-cards {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.rounded-btn {
+    border-radius: 30px;
+}
+
+.link-color {
+    color: #80033d;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.social-icon-style {
+    padding: 4px;
+    font-size: 13px;
+    height: 20px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+    margin-bottom: 2px
+}
+
+.social-icon-style-ln {
+    padding: 4px;
+    font-size: 13px;
+    height: 20px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+.text-comm {
+    font-size: 12px;
+    color: gray;
+    margin: 0;
+    padding-top: 2px;
+}
+
+.read-more {
+    padding: 0 0 20px 20px;
+}
+
+.block-space {
+    margin: 0 0 2em 0;
+}
+
+.btn-primary {
+    background-color: #4cd9fc;
+    border-color: #4cd9fc;
+}
+
+.width-fit {
+    padding: 0;
+}
+
+.top-search {
+    width: 300px;
+    float: right;
+    top: 25px;
+    height: 30px;
+}
+
+.date-bar-padd {
+    padding: 0 0 20px 0;
+}
+
+.search-icon {
+    background: white;
+    border-radius: 30px;
+    border-color: black;
+    box-shadow: 0;
+    border-color: #ccc;
+}
+
+.to-date-addon {
+    background: #f5f5f5;
+    border: 0;
+}
+
+.rounded-border {
+    border-radius: 30px !important;
+    border-color: #ccc;
+}
+
+.header-search-round {
+    border-radius: 30px 0 0 30px;
+    border-color: #ccc;
+}
+
+.show-art-button-margin {
+    margin-right: 1em;
+}
+
+.show-more-style {
+    color: #80033d;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.form-padd {
+    margin: 0 30px 0 30px;
+}
+
+.form-acc-maintenance-1 {
+    /* width: 100%; */
+    /* margin: 0 30px; */
+}
+
+.form-acc-maintenance-row {
+    background-color: white;
+    padding: 30px;
+}
+
+.phys-directory-form {
+    background: white;
+}
+
+.phys-directory-form-right {
+    background: white;
+    height: 350px;
+}
+
+.phys-directory-forms {
+    margin-top: 20px;
+}
+
+.doctor-icon-padding {
+    padding: 30px 30px;
+}
+
+.list-text {
+    padding-top: 35px;
+    font-size: 14px;
+}
+
+.inner-header-phys {
+    padding: 30px 30px 0 30px;
+    color: #82033c;
+}
+
+.phys-dir-card-text {
+    padding: 30px 30px 0 30px;
+}
+
+.form-group {}
+
+.phys-directory-imput-group {
+    padding-left: 40px;
+}
+
+.physician-list li:nth-child(even) {
+    background-color: #ddd;
+    display: block;
+}
+
+.inner-header {
+    padding: 30px;
+    color: #82033c;
+}
+
+.acfs-header {
+    padding: 0 30px 30px 0;
+    color: #82033c;
+}
+
+.security-header {
+    padding: 30px 0;
+    color: #82033c;
+}
+
+.personification-header {
+    padding: 90px 30px 30px 30px;
+    color: #82033c;
+}
+
+.emailnotifications-header {
+    padding: 30px;
+    color: #82033c;
+}
+
+.discoverability-header {
+      padding: 30px;
+    color: #82033c;
+}
+
+.pi-container {
+    font-size: 12px;
+    font-weight: bold;
+    padding-left: 30px
+}
+
+.security-container {
+    font-size: 12px;
+    font-weight: bold;
+    padding-left: 30px
+}
+
+.personification-container {
+    font-size: 12px;
+    font-weight: bold;
+    padding-left: 30px
+}
+
+.emailnotifications-container {
+    font-size: 12px;
+    font-weight: bold;
+    padding-left: 30px
+}
+
+.discoverability-container {
+    font-size: 12px;
+    font-weight: bold;
+    padding-left: 30px
+}
+
+.personification-sub-text {
+    padding: 30px 0 0 30px;
+}
+
+.userpic {
+    padding: 10px
+}
+
+.emailnotifications-checks {
+    padding: 0 0 0 100px;
+}
+
+.discoverability-checks {
+     padding: 0 0 0 100px;
+}
+
+.btn-save {
+    background-color: #4cd9fc;
+    border-color: #4cd9fc;
+    
+    color: white;
+}
+
+.btn-cancel {
+    background-color: #fc6f6f;
+    border-color: #fc6f6f;
+    
+    color: white;
+}
+
+.form-control {
+}
+
+.button-group {
+    padding-top: 60px
+}
